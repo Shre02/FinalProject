@@ -15,10 +15,10 @@ Follow the steps given in the Configuration Manual file.
 ### Prerequisites
 - Python 3.x
 - AWS account and configuration
-- Required Python libraries: `river`, `xgboost`, `boto3`,'pandas','lightgbm'.
+- Required Python libraries: `river`, `xgboost`, `boto3`,`pandas`,`lightgbm`.
 
 ### Setup Instructions
-1. Clone the repository: `git clone https://github.com/your-repository-url`
+1. Clone the repository: `git clone https://github.com/Shre02/FinalProject.git`
 2. Upload the Iotproducer.py and csv dataset file to Cloud9
 3. Upload the 21195773_SourceCode.ipynb to Sagemaker Studio Notebook
 
